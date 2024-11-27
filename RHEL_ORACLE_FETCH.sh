@@ -1,9 +1,9 @@
 #!/bin/bash
 servers="
-10.159.12.1
+IPs
 "
-user="decomuser"
-password="n0twest+Decom!inux"
+user=""
+password=""
 script_file="acsv.sh"
 output_file="ou.txt"
 
