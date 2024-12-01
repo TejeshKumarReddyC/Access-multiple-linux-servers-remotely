@@ -1,4 +1,5 @@
 #!/bin/bash
+
 servers="
 IPs
 "
